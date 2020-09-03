@@ -1,1 +1,4 @@
 Making a file in l[D[D[D[D[D[D[D[D[DCreating [D a file in local repository
+A
+B
+C
